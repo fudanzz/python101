@@ -1,0 +1,2 @@
+This is a test file.
+It contains 28 words and 20 different words.

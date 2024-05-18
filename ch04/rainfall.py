@@ -20,4 +20,4 @@ def rain_fall():
         print(f'{city}: {rainfall}')
 
 if __name__ == '__main__':
-    rain_fall()
+    rain_fall()  
